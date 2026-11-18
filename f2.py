@@ -1,1 +1,1 @@
-print("f2 in the feature branch")
+print("f2 in the release branch")
